@@ -4,5 +4,5 @@ def square_array(numbers)
   numbers.each do |squared|
   new_array << squared**2 
 end
-end
 puts new_array
+end
